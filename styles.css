@@ -1,0 +1,33 @@
+/* Apply styling to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Style the header */
+.main-title {
+    color: #007bff;
+    text-align: center;
+    font-size: 28px;
+    border-bottom: 3px solid #007bff;
+    padding-bottom: 10px;
+}
+
+/* Style the paragraph */
+#intro {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+    margin: 15px 0;
+}
+
+/* Style the image */
+.styled-image {
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+    border: 5px solid #007bff;
+    border-radius: 10px;
+}
